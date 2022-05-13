@@ -20,12 +20,12 @@ Any source code can be customized in the folder below.
 Path: \vendor\unisharp\laravel-filemanager\src
 
 Backend Uses : 
-laravel framework version 8
-File manager package : unisharp
+laravel framework version 8,
+File manager package : unisharp,
 
 Fronted Uses : 
-HTML
-CSS
-JS
+HTML,
+CSS,
+JS,
 
 
